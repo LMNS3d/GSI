@@ -6,6 +6,8 @@
 
 clear;close all;
 
+addpath('../Lib_GSI');
+
 % Grid settings (consistent with the CFD computation)
 
 Nt = 400;
