@@ -13,8 +13,8 @@
 
 function E = f_Spectra_Pope(K,L,nu,kn)
 
-    varepsilon = K^(3/2)./L;
-    eta = (nu^3/varepsilon)^(1/4);
+    varepsilon = K.^(3/2)./L;
+    eta = (nu^3./varepsilon).^(1/4);
 
     C = 1.5;
     
