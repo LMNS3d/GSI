@@ -1,4 +1,4 @@
-# GSI: A generalized synthetic method for generating inhomogeneous inflow turbulence in DNS and LES
+# GSI: A generalized synthetic inflow turbulence generation method for divergence-free inhomogeneous flows in DNS and LES
 
 This repository covers the MATLAB implementation of the GSI for generating the inflow boundary condition
 for large-eddy simulation or direct numerical simulation of the homogeneous and inhomogeneous turbulence,
