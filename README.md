@@ -23,7 +23,7 @@ Folder: Case_TBL:                  Corresponds to the turbulent boundary layer c
                main_TimeSeriesI.m: Generate temporal series at the inlet boundary of TBL using eigenmodes constructed by
                                    GSI.
                main_TRL.m:         To construct the 3D covariance matrix of TBL with the TRL model.}
-               Call orders of the main programs in Case_TBTL: main_GSI.m --> main_TimeSeries.m
+               Call orders of the main programs in Case_TBL: main_TRL.m --> main_GSI.m --> main_TimeSeries.m
 
 
 Folder: Lib_GSI:                   Contains the functions needed by the Cubic and TBL cases.
