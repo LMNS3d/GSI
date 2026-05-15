@@ -1,5 +1,5 @@
 % Reference paper: Ying, Li & Fu, Generalized synthetic inflow generation %
-% method for divergence-free inhomogeneous turbulence, JCP, 2025          %
+% method for divergence-free inhomogeneous turbulence, JCP, 2026          %
 % Authors: Anjia Ying, Zhigang Li, Lin Fu                                 %
 
 %%%%% Example program: Construct the eigenmodes with GSI, GSI-P and SFG for
