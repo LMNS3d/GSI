@@ -3,7 +3,7 @@
 This repository covers the MATLAB implementation of the GSI for generating the inflow boundary condition
 for large-eddy simulation or direct numerical simulation of the homogeneous and inhomogeneous turbulence,
 which is proposed in Ref. (Ying, Li & Fu, Generalized synthetic inflow generation method for divergence-free 
-inhomogeneous turbulence, JCP, 2025).
+inhomogeneous turbulence, JCP, 2026).
 
 The examples correspond to the simulated cases presented in Sections 3 and 4 of the reference paper. The
 contents of the repository include:
